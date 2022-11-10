@@ -28,7 +28,8 @@
                <p class="mb-6"> 
                      Penjelasan berada dalam tombol Learn More
                  </p>
-                <a href="{{ url('https://health.kompas.com/read/2020/03/01/121200868/kandungan-gizi-gudeg-amankah-bagi-penderita-kolesterol-tinggi-?page=all') }}"class="text-green-200 ">Learn more</a>
+                <a href="{{ url('https://health.kompas.com/read/2020/03/01/121200868/kandungan-gizi-gudeg-amankah-bagi-penderita-kolesterol-tinggi-?page=all') }}"class="bg-pink-500 text-center py-2 
+                px-4 rounded hover:bg-purple-500 transition">Learn more</a>
             </div>
         </section>
 
